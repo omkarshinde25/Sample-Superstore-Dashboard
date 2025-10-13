@@ -18,28 +18,28 @@ Reporting: Interactive dashboards and visual reports
 
 Stacked Column Chart  
 Purpose: Show sales by sub-category across different regions  
-![Stacked Column Chart](assets/stacked-column.png)
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Stacked%20Column%20Chart.png" width="800"> <br>
 
 Ribbon Chart  
 Purpose: Display yearly sales trends across regions  
-![Ribbon Chart](assets/ribbon-chart.png)
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Ribbon%20Chart.png" width="800"> <br>
 
 Map Chart  
 Purpose: Visualize regional distribution of sales in the U.S.  
-![Map Chart](assets/map-chart.png)
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Map%20Chart.png" width="800"> <br>
 
 Pie and Donut Charts  
 Purpose: Show proportional sales contribution by region and category  
-![Pie Chart](assets/pie-chart.png)  
-![Donut Chart](assets/donut-chart.png)
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Pie%20Chart.png" width="800"> <br>
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Donut%20Chart.png" width="800"> <br>
 
 Column Chart  
 Purpose: Display sorted sales by sub-category  
-![Column Chart](assets/column-chart.png)
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Column%20Chart.png" width="800"> <br>
 
 Funnel Chart  
 Purpose: Illustrate hierarchical contribution to total sales  
-![Funnel Chart](assets/funnel-chart.png)
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Funnel%20Chart.png" width="800"> <br>
 
 ## Features
 - Fully interactive Power BI Charts Dashboard 
