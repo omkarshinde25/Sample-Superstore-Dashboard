@@ -28,6 +28,84 @@ Visualization and Reporting: Microsoft Power BI
 
 ## Visualization Highlights and Insights
 
+### Filled Map Chart  
+**Purpose:** Visualize regional distribution across the United States using color-coded areas.  
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Filled%20Map%20Chart.png" width="800"> <br>
+
+**Insights:**  
+- Divides the U.S. into four regions: Central, East, South, and West.  
+- Provides a clear geographical overview of business operations or sales territories.  
+- Useful for region-based performance comparisons.
+
+---
+
+  ### Gauge Chart  
+**Purpose:** Compare actual sales and profit to target values.  
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Guage%20Chart.png" width="800"> <br>
+
+**Insights:**  
+- **Target Sales:** 2.30M of 4.59M achieved.  
+- **Target Profit:** 286K of 572K achieved.  
+- Useful for monitoring KPIs and progress toward goals.  
+
+---
+
+### Line Chart  
+**Purpose:** Display sales trends by region from 2014–2017.  
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Line%20Chart.png" width="800"> <br>
+
+**Insights:**  
+- West region shows strong growth trend.  
+- Central region fluctuates but improves by 2017.  
+- Helps forecast regional sales patterns.  
+
+---
+
+###  Scatter Chart  
+**Purpose:** Show relationship between Sales and Profit by category.  
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Scatter%20Chart.png" width="800"> <br>
+
+**Insights:**  
+- Technology yields high profit for given sales.  
+- Furniture and Office Supplies lag behind.  
+- Highlights profitability efficiency by category.  
+
+---
+
+### Map with Pie Chart  
+**Purpose:** Combine location-based insights with category-wise contribution visualization.  
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Map%20with%20Pie%20Chart.png" width="800"> <br>
+
+**Insights:**  
+- Each city’s pie represents sales share across Furniture, Office Supplies, and Technology.  
+- Larger circles indicate higher total sales volume.  
+- Helps identify which categories dominate in specific regions.  
+
+---
+
+### Pie and Donut Charts  
+Purpose: Show proportional sales contribution by region and category  
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Pie%20Chart.png" width="800"> <br>
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Donut%20Chart.png" width="800"> <br>
+
+Analysis:  
+1. The West region contributes the highest percentage of overall sales and profit.  
+2. Technology holds the largest share among all product categories.  
+3. Furniture records high sales but lower profits due to discounts and higher shipping costs.
+
+---
+
+### UK Population Analysis by Region – 2024  
+**Purpose:** Show population distribution across UK regions for 2024.  
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/UK%20Population%20Analysis%20by%20Region%20%E2%80%93%202024.png" width="800"> <br>
+
+**Insights:**  
+- Highlights population clusters in major cities like London, Birmingham, and Manchester.  
+- Each dot’s size and color represent the 2024 population estimate.  
+- Useful for demographic, economic, or market analysis across the UK.  
+
+---
+
 ### Stacked Column Chart  
 Purpose: Show sales by sub-category across different regions  
 <img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Stacked%20Column%20Chart.png" width="800"> <br>
@@ -58,18 +136,6 @@ Analysis:
 1. States such as California, New York, and Texas dominate in total sales volume.  
 2. Western and Eastern states generate more revenue than Central and Southern regions.  
 3. Underperforming regions highlight areas where marketing and distribution can be improved.
-
----
-
-### Pie and Donut Charts  
-Purpose: Show proportional sales contribution by region and category  
-<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Pie%20Chart.png" width="800"> <br>
-<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Donut%20Chart.png" width="800"> <br>
-
-Analysis:  
-1. The West region contributes the highest percentage of overall sales and profit.  
-2. Technology holds the largest share among all product categories.  
-3. Furniture records high sales but lower profits due to discounts and higher shipping costs.
 
 ---
 
