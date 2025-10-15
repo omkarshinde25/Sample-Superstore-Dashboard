@@ -1,4 +1,4 @@
-# Data Visualization Project: Sample Superstore
+# Sample Superstore Dashboard 
 
 ## Project Overview
 This project demonstrates a data visualization solution using the Sample Superstore dataset.  
@@ -24,7 +24,21 @@ Source: Public dataset commonly used for analytics and business intelligence pro
 ## Technologies Used
 Data Source: Microsoft Excel  
 ETL and Transformation: Power BI Power Query  
-Visualization and Reporting: Microsoft Power BI  
+Visualization and Reporting: Microsoft Power BI  Dashboard
+
+# Sample Superstore Dashboard
+
+1. Analyzed Superstore sales performance across regions, categories, and states.  
+2. Dataset covers U.S. sales data with metrics on sales, profit, and quantity.  
+3. Dashboard built using Power BI for interactive visualization.  
+4. Total Sales: 2.30M | Quantity: 38K | States: 49 | Cities: 531.  
+5. Included visuals: Map, Bar, Area, and Donut charts.  
+6. West region achieved the highest sales at 31.58%.  
+7. Technology category generated the most revenue.  
+8. Created by **Omkar Shinde (@omkarshinde25)** for business insight analysis.
+
+<img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Sample%20Superstore%20Dashboard.png" width="800"> <br>
+
 
 ## Visualization Highlights and Insights
 
