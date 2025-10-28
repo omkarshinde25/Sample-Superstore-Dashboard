@@ -39,6 +39,8 @@ Visualization and Reporting: Microsoft Power BI  Dashboard
 
 <img src="https://github.com/omkarshinde25/Data-Visualization-Project-Sample-Superstore/blob/main/Chart%20Photos/Sample%20Superstore%20Dashboard.png" width="800"> <br>
 
+<img src="https://github.com/omkarshinde25/Sample-Superstore-Dashboard/blob/main/Chart%20Photos/Screenshot%202025-10-28%20152306.png" width="800"> <br>
+
 
 ## Visualization Highlights and Insights
 
